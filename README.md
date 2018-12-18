@@ -1,6 +1,8 @@
 # is-perfect-number
 A mutlithreaded C program to determine if the user's input is a perfect number.
 
+Please note that this program uses a Unix system call. It will not compile on a Windows system.
+
 # Command
 To run the program, compile the C program and then execute it as follows:
 ```
